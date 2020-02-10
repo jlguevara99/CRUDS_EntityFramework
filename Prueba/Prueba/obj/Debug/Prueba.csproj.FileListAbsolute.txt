@@ -1,0 +1,30 @@
+C:\Users\HP\source\repos\Prueba\Prueba\bin\Debug\Prueba.exe.config
+C:\Users\HP\source\repos\Prueba\Prueba\bin\Debug\Prueba.exe
+C:\Users\HP\source\repos\Prueba\Prueba\bin\Debug\Prueba.pdb
+C:\Users\HP\source\repos\Prueba\Prueba\obj\Debug\Prueba.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\Prueba\Prueba\obj\Debug\Prueba.Properties.Resources.resources
+C:\Users\HP\source\repos\Prueba\Prueba\obj\Debug\Prueba.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\Prueba\Prueba\obj\Debug\Prueba.exe
+C:\Users\HP\source\repos\Prueba\Prueba\obj\Debug\Prueba.pdb
+C:\Users\HP\source\repos\Prueba\Prueba\bin\Debug\EntityFramework.dll
+C:\Users\HP\source\repos\Prueba\Prueba\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\HP\source\repos\Prueba\Prueba\bin\Debug\EntityFramework.xml
+C:\Users\HP\source\repos\Prueba\Prueba\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\HP\source\repos\Prueba\Prueba\obj\Debug\Prueba.Form1.resources
+C:\Users\HP\source\repos\Prueba\Prueba\obj\Debug\Prueba.csproj.CopyComplete
+C:\Users\HP\source\repos\Prueba\Prueba\obj\Debug\Prueba.Presentacion.Agregar.resources
+C:\Users\HP\Desktop\Periodo actual\Vanguardia\Prueba\Prueba\bin\Debug\Prueba.exe.config
+C:\Users\HP\Desktop\Periodo actual\Vanguardia\Prueba\Prueba\bin\Debug\Prueba.exe
+C:\Users\HP\Desktop\Periodo actual\Vanguardia\Prueba\Prueba\bin\Debug\Prueba.pdb
+C:\Users\HP\Desktop\Periodo actual\Vanguardia\Prueba\Prueba\bin\Debug\EntityFramework.dll
+C:\Users\HP\Desktop\Periodo actual\Vanguardia\Prueba\Prueba\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\HP\Desktop\Periodo actual\Vanguardia\Prueba\Prueba\bin\Debug\EntityFramework.xml
+C:\Users\HP\Desktop\Periodo actual\Vanguardia\Prueba\Prueba\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\HP\Desktop\Periodo actual\Vanguardia\Prueba\Prueba\obj\Debug\Prueba.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\Periodo actual\Vanguardia\Prueba\Prueba\obj\Debug\Prueba.Form1.resources
+C:\Users\HP\Desktop\Periodo actual\Vanguardia\Prueba\Prueba\obj\Debug\Prueba.Presentacion.Agregar.resources
+C:\Users\HP\Desktop\Periodo actual\Vanguardia\Prueba\Prueba\obj\Debug\Prueba.Properties.Resources.resources
+C:\Users\HP\Desktop\Periodo actual\Vanguardia\Prueba\Prueba\obj\Debug\Prueba.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\Periodo actual\Vanguardia\Prueba\Prueba\obj\Debug\Prueba.csproj.CopyComplete
+C:\Users\HP\Desktop\Periodo actual\Vanguardia\Prueba\Prueba\obj\Debug\Prueba.exe
+C:\Users\HP\Desktop\Periodo actual\Vanguardia\Prueba\Prueba\obj\Debug\Prueba.pdb
